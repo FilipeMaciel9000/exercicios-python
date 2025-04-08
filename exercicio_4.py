@@ -1,3 +1,6 @@
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+# Queimei largada e usei funções, mas o código ainda está bem intuitivo.
+
 def disseca_variavel(var):
     # Exibe o valor da variável e seu tipo
     print(f'Valor da variável: {var}')
